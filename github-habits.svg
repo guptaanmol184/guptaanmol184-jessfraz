@@ -135,12 +135,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 30.856779342451492%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">39%</span>
+                                <div class="bar" style="width: 30.428286284573712%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">38%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 2.535349738310731%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.5001425719988597%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
